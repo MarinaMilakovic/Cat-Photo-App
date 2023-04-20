@@ -1,2 +1,2 @@
-# coursera-test
-coursera test repository
+# Cat Photo App
+Catphotoapp
